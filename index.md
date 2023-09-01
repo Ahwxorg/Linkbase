@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "Ahwx' Linkbase"
-  text: "List of cool stuff I find on the internet"
-  tagline: My great project tagline
+  text:
+  tagline: "List of cool stuff I find on the internet"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Server-related stuff
+      link: /server-related
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Programming notes
+      link: /programming-notes
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Programming notes
+    details: Notes I take whenever I am coding.
+  - title: Server stuff
+    details: General server stuff. Usually cool apps, server-related technologies mainly.
+  - title: 
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
