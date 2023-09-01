@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Ahwx' Linkbase"
+  name: "Linkbase"
   text:
   tagline: "List of cool stuff I find on the internet"
   actions:
