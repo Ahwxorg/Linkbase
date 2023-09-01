@@ -8,21 +8,24 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Server related', link: '/server-related/' },
+      { text: 'Programming notes', link: '/programming-notes/' },
+      { text: 'General tech notes', link: '/general-tech/' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Items',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'React notes', link: '/programming-notes/react-notes' },
+          { text: 'Installing Void Linux', link: '/general-tech/voidlinux' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Ahwxorg/Linkbase' },
+      { icon: 'mastodon', link: 'https://social.ahwx.org/@ahwx' }
     ]
   }
 })
