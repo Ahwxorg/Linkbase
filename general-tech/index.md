@@ -7,3 +7,7 @@ outline: deep
 ## Linux
 
 - [Personal notes on installing Void Linux](/general-tech/voidlinux)
+
+## MacOS
+
+- [MacOS notes](/general-tech/macos)
