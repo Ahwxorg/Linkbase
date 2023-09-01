@@ -7,19 +7,13 @@ hero:
   text:
   tagline: "List of cool stuff I find on the internet"
   actions:
-    - theme: brand
+    - theme: alt
       text: Server-related stuff
-      link: /server-related
+      link: /server-related/
     - theme: alt
       text: Programming notes
-      link: /programming-notes
-
-features:
-  - title: Programming notes
-    details: Notes I take whenever I am coding.
-  - title: Server stuff
-    details: General server stuff. Usually cool apps, server-related technologies mainly.
-  - title: 
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      link: /programming-notes/
+    - theme: alt
+      text: General tech notes
+      link: /general-tech/
 ---
-
