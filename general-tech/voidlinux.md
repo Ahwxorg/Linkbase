@@ -3,14 +3,15 @@ outline: deep
 ---
 
 # Helpful links
-https://kennydodrill.com/blog/stable-void-linux-setup-guide/#installation-notes
-https://gist.github.com/bastomiadi/abf27618341fc561735adfb17e586916
-https://github.com/siduck/dotfiles
-https://docs.voidlinux.org/config/graphical-session/xorg.html
+
+1. [Kenneth Dodrill's Void Linux Setup Guide](https://kennydodrill.com/blog/stable-void-linux-setup-guide/#installation-notes)
+2. [Post install commands for Void Linux using Glibc](https://gist.github.com/bastomiadi/abf27618341fc561735adfb17e586916)
+3. [Siduck's dotfiles](https://github.com/siduck/dotfiles)
+4. [Void Linux X11 documentation](https://docs.voidlinux.org/config/graphical-session/xorg.html)
 
 # Setting up networking
 
-run `dhcpcd` first (doesnt work if you run wpa_supplicant first), then run `wpa_passphrase 'SSID' 'passwd' >> /etc/wpa_supplicant/wpa_supplicant-wlp2s0.conf`, then run `wpa_supplicant`
+Run `dhcpcd` first (doesnt work if you run wpa_supplicant first), then run `wpa_passphrase 'SSID' 'passwd' >> /etc/wpa_supplicant/wpa_supplicant-wlp2s0.conf`, then run `wpa_supplicant`
 
 # Updating the system and adding nonfree repositories
 
