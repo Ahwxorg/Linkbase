@@ -19,7 +19,8 @@ export default defineConfig({
         items: [
           { text: 'React notes', link: '/programming-notes/react-notes' },
           { text: 'Installing Void Linux', link: '/general-tech/voidlinux' },
-          { text: 'MacOS stuff', link: '/general-tech/macos' }
+          { text: 'MacOS stuff', link: '/general-tech/macos' },
+          { text: 'NixOS stuff', link: '/general-tech/nixos' }
         ]
       }
     ],
