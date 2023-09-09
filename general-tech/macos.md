@@ -37,3 +37,8 @@ I use Sketchybar to display workspaces, volume, battery, GitHub notifications, W
 
 Sketchybar has a very nice intergration with [skhd](#skhd) and [yabai](#yabai).
 
+
+# Articles I found
+
+- [jdckl.dev - distrohopping to an m2](https://jdckl.dev/blog/distrohopping-to-an-m2)
+
