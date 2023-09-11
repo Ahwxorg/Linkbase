@@ -6,4 +6,4 @@ outline: deep
 
 ## Hardware
 
-- [Contents of my lab](/server-related/lab)
+- [Contents of my lab](/docs/server-related/lab)

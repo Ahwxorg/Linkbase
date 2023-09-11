@@ -37,6 +37,10 @@ I use Sketchybar to display workspaces, volume, battery, GitHub notifications, W
 
 Sketchybar has a very nice intergration with [skhd](#skhd) and [yabai](#yabai).
 
+## Mounting SSH file systems
+
+- [macFUSE](https://osxfuse.github.io/)
+
 
 # Articles I found
 
