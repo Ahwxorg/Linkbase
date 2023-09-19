@@ -4,6 +4,11 @@ outline: deep
 
 # Cool MacOS stuff
 
+## Package managers
+
+- [brew.sh](https://brew.sh)
+- [MacPorts](https://macports.org/) (also allows usage of some X11 programs and Linux exclusives such as dmenu.)
+
 ## TouchID as sudo password:
 
 ```sh
