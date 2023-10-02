@@ -21,7 +21,9 @@ export default defineConfig({
           { text: 'Installing Void Linux', link: '/general-tech/voidlinux' },
           { text: 'MacOS stuff', link: '/general-tech/macos' },
           { text: 'NixOS stuff', link: '/general-tech/nixos/' },
-          { text: 'VPS providers', link: '/server-related/vps' }
+          { text: 'VPS providers', link: '/server-related/vps' },
+          { text: 'Tunnels', link: '/server-related/tunnels' },
+          { text: 'Webserver init guide', link: '/server-related/simple-init-guide' }
         ]
       }
     ],
