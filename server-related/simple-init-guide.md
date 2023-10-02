@@ -16,7 +16,7 @@ outline: deep
 
 Make sure to add the IPv4 of the public server to your DNS as an A record; simple screenshot below. (This image is taken from landchad.net, a site by Luke Smith which is a simple hosting guide.)
 
-![https://landchad.net/pix/dns-ping.png](https://landchad.net/pix/dns-ping.png)
+![https://landchad.net/pix/dns-ipv6-done.png](https://landchad.net/pix/dns-ipv6-done.png)
 
 ## Installing and configuring a webserver
 
