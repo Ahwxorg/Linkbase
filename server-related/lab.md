@@ -4,7 +4,7 @@ outline: deep
 
 # My homelab
 
-My current homelab consists of 3 Proxmox servers, one [NixOS](/docs/general-tech/nixos/) server and a few networking applicances.
+My current homelab consists of 3 Proxmox servers, one [NixOS](/general-tech/nixos/) server and a few networking applicances.
 
 ## Hypervisors (brains of the lab)
 
@@ -22,7 +22,7 @@ I also have another test-machine. It's a Dell PowerEdge R220, and has a single I
 
 ### Software
 
-My NAS runs [NixOS](/docs/general-tech/nixos/), mainly because I dislike storage-based OS's like TrueNAS/Openmediavault/Unraid. I personally like doing it "the hard way", and using something like [NixOS](/docs/general-tech/nixos/) looked cool when trying it.
+My NAS runs [NixOS](/general-tech/nixos/), mainly because I dislike storage-based OS's like TrueNAS/Openmediavault/Unraid. I personally like doing it "the hard way", and using something like [NixOS](/general-tech/nixos/) looked cool when trying it.
 
 ### Hardware
 

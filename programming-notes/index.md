@@ -6,4 +6,4 @@ outline: deep
 
 ## React
 
-- [Notes I took/take whilst learning React](/docs/programming-notes/react-notes)
+- [Notes I took/take whilst learning React](/programming-notes/react-notes)
