@@ -20,7 +20,8 @@ export default defineConfig({
           { text: 'React notes', link: '/programming-notes/react-notes' },
           { text: 'Installing Void Linux', link: '/general-tech/voidlinux' },
           { text: 'MacOS stuff', link: '/general-tech/macos' },
-          { text: 'NixOS stuff', link: '/general-tech/nixos/' }
+          { text: 'NixOS stuff', link: '/general-tech/nixos/' },
+          { text: 'VPS providers', link: '/server-related/vps' }
         ]
       }
     ],
