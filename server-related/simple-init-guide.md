@@ -90,4 +90,13 @@ ln -s /etc/nginx/sites-available/mywebsite /etc/nginx/sites-enabled
 systemctl reload nginx
 ```
 
+### Firewall
+
+> Some VPS providers have a firewall preinstalled. Some others have it in the interface, you should check if it does not work after enabling the NGINX server.
+
+```sh
+ufw allow 80
+ufw allow 443
+```
+
 
