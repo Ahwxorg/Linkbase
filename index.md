@@ -16,4 +16,7 @@ hero:
     - theme: alt
       text: General tech notes
       link: /general-tech/
+    - theme: alt
+      text: Privacy notes
+      link: /privacy/
 ---

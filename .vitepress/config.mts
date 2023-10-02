@@ -23,7 +23,8 @@ export default defineConfig({
           { text: 'NixOS stuff', link: '/general-tech/nixos/' },
           { text: 'VPS providers', link: '/server-related/vps' },
           { text: 'Tunnels', link: '/server-related/tunnels' },
-          { text: 'Webserver init guide', link: '/server-related/simple-init-guide' }
+          { text: 'Webserver init guide', link: '/server-related/simple-init-guide' },
+          { text: 'GPG guide', link: '/privacy/gpg' }
         ]
       }
     ],
