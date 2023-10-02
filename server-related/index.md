@@ -7,3 +7,7 @@ outline: deep
 ## Hardware
 
 - [Contents of my lab](/server-related/lab)
+- [List of VPS providers and some experiences with some of them](/server-related/vps)
+- [Ways I tunnel my services](/server-related/tunnels)
+- [Simple initial setup guide for a VPS as a webserver](/server-related/simple-init-guide)
+
