@@ -24,7 +24,8 @@ export default defineConfig({
           { text: 'VPS providers', link: '/server-related/vps' },
           { text: 'Tunnels', link: '/server-related/tunnels' },
           { text: 'Webserver init guide', link: '/server-related/simple-init-guide' },
-          { text: 'GPG guide', link: '/privacy/gpg' }
+          { text: 'GPG guide', link: '/privacy/gpg' },
+          { text: 'Awesome selfhosted services', link: '/server-related/selfhosted-services' }
         ]
       }
     ],
