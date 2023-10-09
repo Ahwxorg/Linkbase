@@ -11,3 +11,4 @@ outline: deep
 - [Ways I tunnel my services](/server-related/tunnels)
 - [Simple initial setup guide for a VPS as a webserver](/server-related/simple-init-guide)
 - [Apps you can host yourself](/server-related/selfhosted-services)
+- [Pentesting stuff](/server-related/pentesting)

@@ -25,6 +25,7 @@ export default defineConfig({
           { text: 'Tunnels', link: '/server-related/tunnels' },
           { text: 'Webserver init guide', link: '/server-related/simple-init-guide' },
           { text: 'GPG guide', link: '/privacy/gpg' },
+          { text: 'Pentesting tools', link: '/server-related/pentesting' },
           { text: 'Awesome selfhosted services', link: '/server-related/selfhosted-services' }
         ]
       }
