@@ -26,7 +26,9 @@ export default defineConfig({
           { text: 'Webserver init guide', link: '/server-related/simple-init-guide' },
           { text: 'GPG guide', link: '/privacy/gpg' },
           { text: 'Pentesting tools', link: '/server-related/pentesting' },
-          { text: 'Awesome selfhosted services', link: '/server-related/selfhosted-services' }
+          { text: 'Awesome selfhosted services', link: '/server-related/selfhosted-services' },
+          { text: 'Proxmox', link: '/server-related/proxmox' },
+          { text: 'Windows Server', link: '/server-related/windows-server' }
         ]
       }
     ],

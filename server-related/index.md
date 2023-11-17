@@ -12,3 +12,5 @@ outline: deep
 - [Simple initial setup guide for a VPS as a webserver](/server-related/simple-init-guide)
 - [Apps you can host yourself](/server-related/selfhosted-services)
 - [Pentesting stuff](/server-related/pentesting)
+- [Proxmox](/server-related/proxmox)
+- [Windows Server (2019)](/server-related/windows-server)
