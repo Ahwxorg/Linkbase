@@ -47,6 +47,16 @@ Sketchybar has a very nice intergration with [skhd](#skhd) and [yabai](#yabai).
 - [macFUSE](https://osxfuse.github.io/)
 
 
+## Some commands:
+
+Improve key repeat:
+
+```sh
+defaults write NSGlobalDomain KeyRepeat -int 1
+defaults write NSGlobalDomain InitialKeyRepeat -int 14
+```
+
+
 # Articles I found
 
 - [jdckl.dev - distrohopping to an m2](https://jdckl.dev/blog/distrohopping-to-an-m2)
