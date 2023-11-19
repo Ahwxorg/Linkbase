@@ -91,6 +91,7 @@ I usually have it docked to my 34" 3440x1440 ultrawide monitor with built in USB
 Laptop USB-C port
   * Philips monitor hub/audio/video/power
     * Keyboard: Varmilo VA87M Retro Keys
+    * Keyboard: Keychron K3 (BT/cable)
     * Harddrive: 1TB Apple-branded HGST HDD
     * USB Hub in monitor stand: ARCTIC Z3 Pro
       * Mouse dongel: Logitech G Pro X Superlight
