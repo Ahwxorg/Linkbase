@@ -14,3 +14,4 @@ outline: deep
 - [Pentesting stuff](/server-related/pentesting)
 - [Proxmox](/server-related/proxmox)
 - [Windows Server (2019)](/server-related/windows-server)
+- [TrueNAS](/server-related/truenas)
