@@ -4,13 +4,13 @@ outline: deep
 
 # My homelab
 
-My current homelab consists of 3 Proxmox servers, one [NixOS](/general-tech/nixos/) server and a few networking applicances.
+My current homelab consists of 3 [Proxmox](/general-tech/proxmox/) servers, one [NixOS](/general-tech/nixos/) server and a few networking applicances.
 
 ## Hypervisors (brains of the lab)
 
 ### Software
 
-All of the hypervisors run on Proxmox and most VMs run on Debian 12.
+All of the hypervisors run on [Proxmox](/general-tech/proxmox/) and most VMs run on Debian 12.
 
 ### Hardware
 
