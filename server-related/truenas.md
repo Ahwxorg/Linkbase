@@ -8,7 +8,7 @@ I've been using TrueNAS Scale in a VM for quite a while now. It's a solid system
 
 ## Backups from Time Machine (macOS)
 
-As I use a [Mac](/general-tech/macos/), I can best use Time Machine.
+As I use a [Mac](/general-tech/macos), I can best use Time Machine.
 
 This does not work out-of-the-box on TrueNAS (at least not on my machine/VM), we need to tweak a few settings.
 
