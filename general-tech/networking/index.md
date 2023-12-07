@@ -40,3 +40,8 @@ These layer 3 packets contain a segment (layer 4) + layer 5, 6 and 7. You don't 
 
 
 PS: I am by no means an expert, but someone helped me and I think I figured it out. These are my personal notes.
+
+## Links
+
+[Hoppscotch, a nice API development ecosystem](https://hoppscotch.io/)
+
