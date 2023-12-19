@@ -88,7 +88,7 @@ emerge --sync guru
 > USE-flags are listed inside dotfiles GitHub repository.
 
 ```sh
-emerge -avq media-sound/playerctl app-misc/brightnessctl gui-apps/swaybg gui-apps/swaylock gui-apps/tofi media-gfx/imv gui-apps/wl-clipboard gui-apps/grim gui-apps/slurp media-sound/pavucontrol gui-apps/waybar
+emerge -avq media-sound/playerctl app-misc/brightnessctl gui-apps/swaybg gui-apps/swaylock gui-apps/tofi media-gfx/imv gui-apps/wl-clipboard gui-apps/grim gui-apps/slurp media-sound/pavucontrol gui-apps/waybar sys-apps/ripgrep
 ```
 
 ### Building `element-desktop`
