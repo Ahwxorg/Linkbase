@@ -105,7 +105,7 @@ make -j10
 doas make install -j10
 ```
 
-### Building Element itself
+#### Building Element itself
 
 > This *should* work, however the `.AppImage` did not work for me personally. The `dist/linux-arm64-unpacked` folder had a binairy that worked, however.
 
