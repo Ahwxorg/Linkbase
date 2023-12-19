@@ -29,7 +29,8 @@ export default defineConfig({
           { text: 'Awesome selfhosted services', link: '/server-related/selfhosted-services' },
           { text: 'Proxmox', link: '/server-related/proxmox' },
           { text: 'Windows Server', link: '/server-related/windows-server' },
-          { text: 'TrueNAS Scale', link: '/server-related/truenas' }
+          { text: 'TrueNAS Scale', link: '/server-related/truenas' },
+          { text: 'Gentoo on M2 Pro with Asahi Linux', link: '/general-tech/gentoo/asahi' }
         ]
       }
     ],
