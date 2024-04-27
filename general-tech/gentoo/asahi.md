@@ -19,7 +19,7 @@ I followed the wiki, untill I had to manually start doing things "the Gentoo way
 
 ### Kernel and GPU stuff
 
-One of the Asahi-devs gave me a kernel .config file, which I customised and builded. I also had to build an initramfs, commands to do all of those are down below:
+One of the Asahi-devs gave me a kernel .config file, which I customised and built. I also had to build an initramfs, commands to do all of those are down below:
 
 You want to make sure to have installed `rust` and `bindgen`:
 
